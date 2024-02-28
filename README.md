@@ -7,6 +7,7 @@ Welcome to my Weekly Code Challenge repository! As part of a personal commitment
 - [Overview](#overview)
 - [Projects](#projects)
     - [Week 1](#week-1)
+- [License](#license)
 
 
 ## Overview
@@ -22,3 +23,9 @@ Here's a list of the completed projects organized by week:
 - [Week 1: Python Wordl](/week-1)
   - Brief description of the project and key features.
   - Any additional information or notes about the week's challenge.
+
+
+
+## License
+
+This project is licensed under the [GNU General Public License (GPG)](LICENSE) - see the [LICENSE](LICENSE) file for details.
