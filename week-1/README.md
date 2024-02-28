@@ -33,7 +33,7 @@ This Python project implements a word guessing game where the player attempts to
 Clone the repository and run the Python script:
 
 ```bash
-python word_guess_game.py
+python wordl.py
 ```
 
 Follow the on-screen instructions to play the game.
