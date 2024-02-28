@@ -21,8 +21,7 @@ Feel free to explore the individual project folders for more details on each wee
 Here's a list of the completed projects organized by week:
 
 - [Week 1: Python Wordl](/week-1)
-  - Brief description of the project and key features.
-  - Any additional information or notes about the week's challenge.
+  - A simple word guessing game where the player tries to guess a 5-letter word.
 
 
 
