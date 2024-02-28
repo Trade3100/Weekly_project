@@ -1,2 +1,24 @@
-# Weekly_project
-doing a project a week for an undefined amount of weeks.
+# Weekly Code Challenge
+
+Welcome to my Weekly Code Challenge repository! As part of a personal commitment, I am challenging myself to complete a coding project every week. This repository will serve as a collection of the various projects I work on during this challenge.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Projects](#projects)
+- [Week 1](#week-1)
+
+
+## Overview
+
+This repository is a record of my journey through weekly coding challenges. Each week, I will be working on a different project to enhance my coding skills, explore new technologies, and broaden my understanding of software development.
+
+Feel free to explore the individual project folders for more details on each week's challenge.
+
+## Projects
+
+Here's a list of the completed projects organized by week:
+
+- [Week 1: Project Name](/week-1)
+  - Brief description of the project and key features.
+  - Any additional information or notes about the week's challenge.
