@@ -19,7 +19,7 @@ This Python project implements a word guessing game where the player attempts to
 
 - Randomly selects a 5-letter word for the player to guess.
 - Provides feedback on each guess, highlighting correct letters in the right position (green), correct letters in the wrong position (orange), and incorrect letters (gray).
-- Allows the player four chances to guess the word correctly.
+- Allows the player five chances to guess the word correctly.
 
 ## How to Play
 
