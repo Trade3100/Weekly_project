@@ -6,7 +6,7 @@ Welcome to my Weekly Code Challenge repository! As part of a personal commitment
 
 - [Overview](#overview)
 - [Projects](#projects)
-    - [Week 1](#week-1)
+    - [Week 1 Wordl](#week-1)
 - [License](#license)
 
 
