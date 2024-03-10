@@ -7,6 +7,7 @@ Welcome to my Weekly Code Challenge repository! As part of a personal commitment
 - [Overview](#overview)
 - [Projects](#projects)
     - [Week 1 Wordl](#Week-1-Python-Wordl)
+    - [Week 1 Wordl](#Week-2-QrCode-utility)
 - [License](#license)
 
 
@@ -22,6 +23,8 @@ Here's a list of the completed projects organized by week:
 
 ### [Week 1: Python Wordl](/week-1)
   - A simple word guessing game where the player tries to guess a 5-letter word.
+### [Week 2: QrCode utility](/week-2)
+  - A simple script for QrCode manipulation written in python.
 
 
 
