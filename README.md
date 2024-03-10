@@ -20,7 +20,7 @@ Feel free to explore the individual project folders for more details on each wee
 
 Here's a list of the completed projects organized by week:
 
-- [Week 1: Python Wordl](/week-1)
+### - [Week 1: Python Wordl](/week-1)
   - A simple word guessing game where the player tries to guess a 5-letter word.
 
 
