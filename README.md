@@ -6,7 +6,7 @@ Welcome to my Weekly Code Challenge repository! As part of a personal commitment
 
 - [Overview](#overview)
 - [Projects](#projects)
-    - [Week 1 Wordl](#Week 1-Python Wordl)
+    - [Week 1 Wordl](#Week-1-Python-Wordl)
 - [License](#license)
 
 
