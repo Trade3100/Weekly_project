@@ -8,7 +8,7 @@ Welcome to my Weekly Code Challenge repository! As part of a personal commitment
 - [Projects](#projects)
     - [Week 1 Wordl](#Week-1-Python-Wordl)
     - [Week 2 QrCode utility](#Week-2-QrCode-utility)
-    - [Week 3 2D Street Racing Game](#Week-3:-Pygame-2D-Street-Racing-Game)
+    - [Week 3 2D Street Racing Game](#Week-3-Pygame-2D-Street-Racing-Game)
 - [License](#license)
 
 
